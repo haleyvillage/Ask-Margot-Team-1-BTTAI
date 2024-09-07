@@ -1,0 +1,31 @@
+Hospital,Location Type,Geography,Cost of Living,Strengths,Weaknesses
+A,Large City,Sun Belt,Expensive,"Pay, Safety & patient ratios ","DEI, Mgmt & leadership"
+B,Small City,New England,Moderate,"Pay, Mgmt & leadership",Housing Options
+C,Suburb,Midwest,Moderate,"DEI, Patient Accuity,","Pay, Safety & patient ratios "
+D,Rural,Mountain West,Value,Housing Options,"Pay, Mgmt & leadership"
+E,Large City,Sun Belt,Moderate,"Housing Options, Patient Accuity,","Orientation & onboarding,"
+F,Small City,New England,Expensive,Facility Location,Housing Options
+G,Suburb,Midwest,Moderate,Mgmt & leadership,"DEI, Orientation & onboarding"
+H,Rural,Mountain West,Value,"Orientation & onboarding, Mgmt & leadership",Pay
+I,Large City,Sun Belt,Moderate,"DEI,Mgmt & leadership","Facility Location, Safety & patient ratios "
+J,Small City,New England,Moderate,Mgmt & leadership,
+K,Suburb,Midwest,Value,Pay,"Housing Options, Safety & patient ratios "
+L,Rural,Mountain West,Value,Mgmt & leadership,"Patient Accuity,"
+M,Large City,Sun Belt,Expensive,Facility Location,"Safety & patient ratios, Mgmt & leadership"
+N,Small City,New England,Moderate,Safety & patient ratios ,"Pay, Mgmt & leadership"
+O,Suburb,Midwest,Moderate,Facility Location,Safety & patient ratios 
+P,Rural,Mountain West,Value,"Orientation & onboarding,","Patient Accuity, Housing Options"
+Q,Large City,Sun Belt,Moderate,Safety & patient ratios ,Mgmt & leadership
+R,Small City,New England,Expensive,Housing Options,"Orientation & onboarding,"
+S,Suburb,Midwest,Value,"Pay, DEI",Mgmt & leadership
+T,Rural,Mountain West,Value,Safety & patient ratios ,"Patient Accuity, DEI"
+U,Large City,Sun Belt,Expensive,"Facility Location, DEI",Pay
+V,Small City,New England,Expensive,"Orientation & onboarding, Mgmt & leadership",Pay
+W,Suburb,Midwest,Moderate,"Pay, Safety & patient ratios ","DEI, Mgmt & leadership"
+X,Rural,Mountain West,Value,"Orientation & onboarding, Safety & patient ratios ","Facility Location, Mgmt & leadership"
+Y,Large City,Sun Belt,Expensive,"Patient Accuity, Mgmt & leadership","Pay, DEI"
+Z,Small City,New England,Moderate,"Housing Options, Facility Location","Orientation & onboarding, Safety & patient ratios "
+AA,Suburb,Midwest,Value,Pay,"Orientation & onboarding, Safety & patient ratios "
+BB,Rural,Mountain West,Value,Pay,"Mgmt & leadership, Safety & Patient Ratios"
+CC,Large City,Sun Belt,Expensive,"Patient Accuity, Mgmt & leadership",Pay
+DD,Small City,New England,Moderate,Orientation & onboarding,"Pay,   Safety & patient ratios "
